@@ -1,2 +1,2 @@
 # portfolio
-Meu portefólio pessoal usando a penas HTML
+Meu portfólio pessoal usando a penas HTML
